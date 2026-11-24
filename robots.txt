@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://bartonessel.github.io/sitemap-index.xml
